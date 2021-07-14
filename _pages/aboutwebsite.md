@@ -1,7 +1,7 @@
 ---
-title: "About the website"
+title: "Intelligent Reading Systems"
 layout: textlay
-excerpt: "About the website."
+excerpt: "Intelligent Reading Systems"
 sitemap: false
 permalink: /aboutwebsite.html
 ---
