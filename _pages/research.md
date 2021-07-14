@@ -1,7 +1,7 @@
 ---
-title: "Document Analysis Group - Research"
+title: "Intelligent Reading Systems - Research"
 layout: textlay
-excerpt: "Document Analysis Group -- Research"
+excerpt: "Intelligent Reading Systems -- Research"
 sitemap: false
 permalink: /research/
 ---

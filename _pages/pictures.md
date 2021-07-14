@@ -1,7 +1,7 @@
 ---
-title: "Document Analysis Group - Pictures"
+title: "Intelligent Reading Systems - Pictures"
 layout: piclay
-excerpt: "Document Analysis Group -- Pictures"
+excerpt: "Intelligent Reading Systems -- Pictures"
 permalink: /pictures/
 ---
 
