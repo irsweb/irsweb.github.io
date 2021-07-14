@@ -1,7 +1,7 @@
 ---
-title: "Document Analysis Group - Publications"
+title: "Intelligent Reading Systems - Publications"
 layout: gridlay
-excerpt: "Document Analysis Group -- Publications."
+excerpt: "Intelligent Reading Systems -- Publications."
 sitemap: false
 permalink: /publications/
 ---
