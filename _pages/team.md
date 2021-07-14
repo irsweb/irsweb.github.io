@@ -1,7 +1,7 @@
 ---
-title: "Document Analysis Group - Team"
+title: "Intelligent Reading Systems - Team"
 layout: gridlay
-excerpt: "Document Analysis Group: Team members"
+excerpt: "Intelligent Reading Systems: Team members"
 sitemap: false
 permalink: /team/
 ---

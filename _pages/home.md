@@ -1,18 +1,18 @@
 ---
-title: "Document Analysis Group - Home"
+title: "Intelligent Reading Systems - Home"
 layout: homelay
-excerpt: "Document Analysis Group at Computer Vision Center."
+excerpt: "Intelligent Reading Systems at Computer Vision Center."
 sitemap: false
 permalink: /
 ---
 
-The Pattern Recognition and Document Analysis Group (DAG) of the Computer Vision Center (CVC), Universitat Autònoma de Barcelona (UAB) is a young research group that started its activities in 1997.
+The Pattern Recognition and Intelligent Reading Systems (IRS) of the Computer Vision Center (CVC), Universitat Autònoma de Barcelona (UAB) is a young research group that started its activities in 1997.
 
-The DAG has large research and development experience in the following concerns: symbol recognition, indexing and browsing by graphical content, sketchy interfaces, diagrammatic reasoning and visual languages for graphic documents, document image analysis architectures, reading systems for forms and structured documents, camera-based OCR, fingerprint recognition.
+The IRS has large research and development experience in the following concerns: symbol recognition, indexing and browsing by graphical content, sketchy interfaces, diagrammatic reasoning and visual languages for graphic documents, document image analysis architectures, reading systems for forms and structured documents, camera-based OCR, fingerprint recognition.
 
-In 2005  the DAG received the “Consolidated Research Group” label (2005SGR00472) from the Research and University Department of the Catalan Government. Currently, the DAG consists of 3 doctors and 10 pre-doctoral students.
+In 2005  the IRS received the “Consolidated Research Group” label (2005SGR00472) from the Research and University Department of the Catalan Government. Currently, the DAG consists of 3 doctors and 10 pre-doctoral students.
 
-In the last 10 years, the DAG has published more than 60 papers in relevant international journals and conferences, an developed more than 20 projects sponsored by both public and private funds.
+In the last 10 years, the IRS has published more than 60 papers in relevant international journals and conferences, an developed more than 20 projects sponsored by both public and private funds.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -65,7 +65,7 @@ Document Analysis is a discipline that combines image analysis and pattern recog
 
 ### Research topics
 
-The Document Analysis Group of the CVC has research and development experience in the following concerns:
+The Intelligent Reading Systems of the CVC has research and development experience in the following concerns:
 
 
     - symbol recognition
