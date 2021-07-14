@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Intelligent Reading Systems - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
