@@ -1,0 +1,47 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Document Analysis Group
+email: dag@cvc.uab.cat
+description: > # this means to ignore newlines until "baseurl:"
+  The Pattern Recognition and Document Analysis Group (DAG) of the Computer Vision Center (CVC), Universitat Autònoma de Barcelona (UAB) is a young research group that started its activities in 1997.
+  The DAG has large research and development experience in the following concerns; symbol recognition, indexing and browsing by graphical content, sketchy interfaces, diagrammatic reasoning and visual    languages for graphic documents, document image analysis architectures, reading systems for forms and structured documents, camera-based OCR, fingerprint recognition.
+  In 2005  the DAG received the “Consolidated Research Group” label (2005SGR00472) from the Research and University Department of the Catalan Government. Currently, the DAG consists of 3 doctors and 10 pre-doctoral students.
+
+  In the last 10 years, the DAG has published more than 60 papers in relevant international journals and conferences, an developed more than 20 projects sponsored by both public and private funds.
+baseurl: ""
+url: ""
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
