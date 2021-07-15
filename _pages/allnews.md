@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Intelligent Reading Systems at Computer Vision Center."
 sitemap: false
 permalink: /allnews.html
 ---

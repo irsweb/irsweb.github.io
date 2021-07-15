@@ -3,6 +3,7 @@ title: "Intelligent Reading Systems - Pictures"
 layout: piclay
 excerpt: "Intelligent Reading Systems -- Pictures"
 permalink: /pictures/
+exclude: true
 ---
 
 # Pictures

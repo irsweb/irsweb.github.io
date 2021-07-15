@@ -68,8 +68,8 @@ Document Analysis is a discipline that combines image analysis and pattern recog
 The Intelligent Reading Systems of the CVC has research and development experience in the following concerns:
 
 
+    - sketch based image processing
     - symbol recognition
-    - indexing and browsing by graphical content
     - sketchy interfaces diagrammatic reasoning
     - visual languages for graphic documents
     - graphics recognition architectures
