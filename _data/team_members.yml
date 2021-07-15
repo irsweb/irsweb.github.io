@@ -1,6 +1,6 @@
 - name: Josep Lladós #Canet
   photo: ../bio-photo.jpg
-  info: Director?
+  info: Director
   email: josep.llados@cvc.uab.cat
   number_educ: 0
 
@@ -50,7 +50,7 @@
 - name: Sounak Dey
   photo: ../bio-photo.jpg
   info: Postdoctoral Researcher
-  email: lluis.gomez@cvc.uab.cat
+  email: sounak.dey@cvc.uab.cat
   number_educ: 0
 
 - name: Joan Mas #Romeu
