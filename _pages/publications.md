@@ -68,8 +68,13 @@ permalink: /publications/
 
 ## Full List of publications
 -->
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
 <iframe id="" style="overflow-x: hidden;" src="http://refbase.cvc.uab.es/show.php?notes=dag&amp;submit=Cite&amp;citeStyle=J%20Glaciol&amp;citeOrder=year&amp;client=inc-refbase-1.0&amp;showLinks=1&amp;showRows=10" width="100%" height="1000px" longdesc="#" frameborder="0" ></iframe>
+
+<!--
+<iframe id="" style="overflow-x: hidden;" src="redirect.php?url=http://refbase.cvc.uab.es/show.php?notes=dag&amp;submit=Cite&amp;citeStyle=J%20Glaciol&amp;citeOrder=year&amp;client=inc-refbase-1.0&amp;showLinks=1&amp;showRows=10" width="100%" height="1000px" longdesc="#" frameborder="0" ></iframe>
+-->
 
 
 
